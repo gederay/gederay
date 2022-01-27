@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gederay
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning React Js with Express
+- 🌱 I’m currently learning DART Flutter and Laravel Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
